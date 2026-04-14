@@ -1,4 +1,4 @@
-# causal_sql
+# KarnAI
 
 ## The DO Operator
 
