@@ -1,4 +1,4 @@
-# KarnAI
+# Extending SQL to Causal Queries
 
 ## The DO Operator
 
